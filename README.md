@@ -6,7 +6,7 @@
 
 Definition and characteristics of big data Data storage methods, Big data analysis tools and techniques, Structured and unstructured data processing and virtualization technique
 
-<hr />
+
 
 ## ผู้สอน
 ผู้ช่วยศาสตราจารย์พิศาล สุขขี
@@ -17,7 +17,7 @@ Definition and characteristics of big data Data storage methods, Big data analys
 
 phisan.s@sskru.ac.th
 
-<hr />
+
 
 ## เนื้อหา
 - Introduction to Big Data Processing
