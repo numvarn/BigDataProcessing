@@ -20,7 +20,7 @@ phisan.s@sskru.ac.th
 
 
 ## เนื้อหา
-- Introduction to Big Data Processing
+- [Introduction to Big Data Processing](https://github.com/numvarn/BigDataProcessing/blob/main/content/01.Intro_BigData.ipynb)
 - Big Data Processing and Analysis Using Python Programming Language
 - Python Variable and Data Type
 - Numpy
