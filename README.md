@@ -15,6 +15,7 @@ Definition and characteristics of big data Data storage methods, Big data analys
 มหาวิทยาลัยราชภัฏศรีสะเกษ
 
 mail: phisan.s@sskru.ac.th
+
 web: [https://numvarn.github.io/resume/](https://numvarn.github.io/resume/)
 
 ## เนื้อหา
