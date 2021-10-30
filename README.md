@@ -23,7 +23,7 @@ web: [https://numvarn.github.io/resume/](https://numvarn.github.io/resume/)
 - [Introduction to Big Data](https://github.com/numvarn/BigDataProcessing/blob/main/content/01.Intro_BigData.ipynb)
 - Big Data Processing and Analysis Using Python Programming Language
 - [Python Variable and Data Type](https://github.com/numvarn/BigDataProcessing/blob/main/content/03_Variable_and_Data_Types.ipynb)
-- Numpy
+- [Numpy](https://github.com/numvarn/BigDataProcessing/blob/main/content/04.Intro_to_Numpy.ipynb)
 - [File Management](https://github.com/numvarn/BigDataProcessing/blob/main/content/05_files.ipynb)
 - Introduction to Pandas
 - Data Manipulation with Pandas
